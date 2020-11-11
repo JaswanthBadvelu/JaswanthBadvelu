@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently volunteering as a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 at 𝐎𝐦𝐝𝐞𝐧𝐚 to develop AI solutions for social good while actively looking for job opportunities in the field of data science and supply chain.
-
-I am a highly analytical Data enthusiastic in a quest for finding ways to integrate Data Science and AI techniques with various fields of Industrial Engineering to enhance business decision-making and performance. I bring a unique blend of Data Science, Supply Chain & Operation Research skills to your company.
+🔭 I'm currently volunteering as a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 at 𝐎𝐦𝐝𝐞𝐧𝐚 to develop AI solutions for social good while actively looking for job opportunities in the field of data science and supply chain. I am a highly analytical Data enthusiastic in a quest for finding ways to integrate Data Science and AI techniques with various fields of Industrial Engineering to enhance business decision-making and performance. I bring a unique blend of Data Science, Supply Chain & Operation Research skills to your company.
 
 𝐈𝐁𝐌 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐃𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐒𝐢𝐱 𝐒𝐢𝐠𝐦𝐚 𝐆𝐫𝐞𝐞𝐧 𝐁𝐞𝐥𝐭
 
