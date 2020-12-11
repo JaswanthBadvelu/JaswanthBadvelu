@@ -10,3 +10,5 @@ I am a highly analytical data enthusiastic in a quest for finding ways to integr
 In my free time, I write articles related to Machine learning and deep learning at Medium and have 𝟏𝟎,𝟎𝟎𝟎+ 𝐚𝐜𝐭𝐢𝐯𝐞 𝐦𝐨𝐧𝐭𝐡𝐥𝐲 𝐫𝐞𝐚𝐝𝐞𝐫𝐬. You can find all my articles in Medium [here](https://jaswanth-badvelu.medium.com/)
 
 To disussing any questions or opportunities feel free to reach me using my [LinkedIn](https://www.linkedin.com/in/jaswanth-badvelu/)
+
+[![Jaswanth's github stats](https://github-readme-stats.vercel.app/api?username=JaswanthBadvelu)](https://github.com/JaswanthBadvelu/github-readme-stats)
