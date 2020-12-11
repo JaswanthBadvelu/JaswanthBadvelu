@@ -11,6 +11,5 @@ In my free time, I write articles related to Machine learning and deep learning 
 
 To disussing any questions or opportunities feel free to reach me using my [LinkedIn](https://www.linkedin.com/in/jaswanth-badvelu/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthBadvelu)](https://github.com/JaswanthBadvelu/github-readme-stats)
 [![Jaswanth's github stats](https://github-readme-stats.vercel.app/api?username=JaswanthBadvelu&count_private=true&show_icons=true)](https://github.com/JaswanthBadvelu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthBadvelu)](https://github.com/JaswanthBadvelu/github-readme-stats)
